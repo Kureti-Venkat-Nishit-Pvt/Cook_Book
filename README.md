@@ -7,20 +7,20 @@ A collection of home-style recipes documented in Markdown with step-by-step inst
 ## 📂 Categories
 
 ### 🍛 Curries
-- Chicken Curry
-- Paneer Curry
-- Rajma Masala
-- Chenna Masala
+- [🍗 Chicken Curry](recipes/curries/chicken_curry.md)
+- [🍛 Paneer Curry](recipes/curries/paneer_curry.md)
+- [🫘 Rajma Masala](recipes/curries/rajma_masala.md)
+- [🧆 Chenna Masala](recipes/curries/chenna_masala.md)
 
 ### 🥣 Chutneys
-- Groundnut Chutney
-- Tomato Chutney
+- [🥜 Groundnut Chutney](recipes/chutneys/groundnut_chutney.md)
+- [🍅 Tomato Chutney](recipes/chutneys/tomato_chutney.md)
 
 ### 🍚 Rice Dishes
-- Coconut Rice
+- [🥥 Coconut Rice](recipes/rice_dishes/coconut_rice.md)
 
 ### 🍫 Spreads & Desserts
-- Nutella
+- [🍫 Nutella](recipes/spreads_desserts/nutella.md)
 
 ---
 
