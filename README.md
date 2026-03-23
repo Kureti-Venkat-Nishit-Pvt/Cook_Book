@@ -13,14 +13,16 @@ A collection of home-style recipes documented in Markdown with step-by-step inst
 - [🧆 Chenna Masala](recipes/curries/chenna_masala.md)
 
 ### 🥣 Chutneys
-- [🥜 Groundnut Chutney](recipes/chutneys/groundnut_chutney.md)
-- [🍅 Tomato Chutney](recipes/chutneys/tomato_chutney.md)
+- [🥜 Groundnut Chutney](recipes/chutneys/GroundNut_Chutney.md)
+- [🍅 Tomato Chutney](recipes/chutneys/Tomato_Chutney.md)
 
 ### 🍚 Rice Dishes
 - [🥥 Coconut Rice](recipes/rice_dishes/coconut_rice.md)
+- [🥥Karepaku_Rice.md](recipes/rice_dishes/Karepaku_Rice.md)
+- [🥥Pudina_Rice.md](recipes/rice_dishes/Pudina_Rice.md)
 
 ### 🍫 Spreads & Desserts
-- [🍫 Nutella](recipes/spreads_desserts/nutella.md)
+- [🍫 Nutella](recipes/spreads_desserts/Nutella.md)
 
 ---
 
