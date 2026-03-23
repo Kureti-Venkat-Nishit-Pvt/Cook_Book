@@ -7,7 +7,7 @@ A collection of home-style recipes documented in Markdown with step-by-step inst
 ## 📂 Categories
 
 ### 🍛 Curries
-- [🍗 Chicken Curry](recipes/curries/chicken_curry.md)
+- [🍗 Chicken Curry]([recipes/curries/chicken_curry.md](https://github.com/Kureti-Venkat-Nishit-Pvt/Cook_Book/blob/main/%F0%9F%8D%9B%20curries/Chicken_Curry_Recipe.md))
 - [🍛 Paneer Curry](recipes/curries/paneer_curry.md)
 - [🫘 Rajma Masala](recipes/curries/rajma_masala.md)
 - [🧆 Chenna Masala](recipes/curries/chenna_masala.md)
